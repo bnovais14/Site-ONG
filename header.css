@@ -1,0 +1,94 @@
+#header-top{background-color: black;
+            background-image: url(Home-Slider-Dogs.jpg);
+            text-align: center;
+            width: 100%;
+}
+
+#header-logo{width: 20%;}
+
+#logo {width: 20%}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left: 10% ;
+    padding: px;
+  overflow: hidden;
+  background-color: orangered;
+  font-family: impact;
+  font-size: 2em;
+  text-align: center;
+  width: 90%
+}
+
+li {
+  float:left;
+  max-width: 100%;
+    width: 17%;
+    padding: 1.5%;
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding% ;
+  margin-left:px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #111;
+}
+
+@media screen and (min-width:768px){
+    #header-top{background-color: black;
+            background-image: url(Home-Slider-Dogs.jpg);
+            text-align: center;
+            width: 100%;
+}
+
+#header-logo{width: 20%;}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding-left:10% ;
+  overflow: hidden;
+  background-color: orangered;
+  font-family: impact;
+  font-size: 1.5em;
+  text-align: center;
+  width: 90%
+}
+
+li {
+  float:left;
+  max-width: 100%;
+    width: 15%;
+    padding: 10px
+  
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1.1% ;
+  margin-left:20px;
+  text-decoration: none;
+}
+
+li a:hover:not(.active) {
+  background-color: #111;
+}
+
+.active {
+  background-color: #111;
+}
+}

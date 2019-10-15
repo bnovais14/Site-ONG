@@ -1,0 +1,25 @@
+.center-box{margin-left: 20%;
+            padding: 10px;
+            margin-right:20%;}
+
+.titulo{font-family: lucida console;
+    font-size: 1.4em;
+}
+
+.texto{font-family: monospace;
+    font-size: 1.4em;
+}
+.linha1{border: solid 4px;
+      border-color:orangered;
+       }
+
+.linha2{border: solid 4px;
+      border-color:black;
+       }
+.texto1 {
+    font-family: monospace;
+  font-size: 1.4em;
+
+
+}
+

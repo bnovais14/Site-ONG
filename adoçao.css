@@ -1,0 +1,370 @@
+.req { 
+ font-family: monospace;
+ font-size:1.5em;
+ text-align: justify;
+}
+.req2 { 
+ font-family: monospace;
+ font-size:1.5em;
+ font-weight:bold;
+
+}
+#title {
+    font-family: monospace;
+    text-align: center;
+    font-weight:bold;
+    font-size: 2.5em;
+    
+    }
+
+#table1 {
+    text-align: center;
+}
+#title1 {
+    font-family: monospace;
+    text-align: center;
+    font-weight:bold;
+    font-size: 2em;
+    position:relative;
+    bottom:0.7em;
+        
+}
+.corpo{
+    background-image: url("./");
+   
+    
+}
+
+.bord {
+    border: solid 5px;
+    border-color:orangered;
+   
+}
+
+.bordf{
+    position: relative;
+    right: 2%;
+    padding: 2em;
+}
+
+#bord1 {
+    border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 1px;
+   position: relative;
+    right: 0.5em;
+    font-size:1.1em;
+    
+    background-color:cream
+    
+}
+
+#bord2 {
+    position: relative;
+    left: 2%;
+}
+
+#bord3 {
+     border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+     position: relative;
+    right: 0.5em;
+    font-size:1.1em;
+}
+
+#bord4 {
+     position: relative;
+    right: 2%;
+    padding: 2em;
+    
+}
+#bord5{
+     border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+    position: relative;
+    right:0.5em;
+    font-size:1.1em;
+}
+
+#bord55 {
+    position: relative;
+    left: 2%;
+    padding: 2em;
+   width:
+}
+
+
+#bord6 {
+padding: 30px; border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+     position: relative;
+    font-size:1.1em;
+    
+    }
+
+
+#bord7 {
+     position: relative;
+    right: 2%;
+    
+}
+
+#bord8 {
+    position: relative;
+    left: 2%;
+    padding: 2em;
+    
+}
+#bord9{ border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+    position: relative;
+    right: 0.5em;
+    font-size:1.1em;
+   
+}
+
+#bord10{
+     position: relative;
+    right: 0.em;
+     border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+    font-size:1.1em;
+}
+
+#bord11{
+    padding: 30px;
+     position: relative;
+     left: 2%;
+}
+
+#bord12 {
+     position: relative;
+    right: 2%;
+}
+
+#bord13 {
+    border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+    position: relative;
+    right:0.5em ;
+    font-size:1.1em;
+}
+#bord14{
+    
+ border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+     position: relative;
+    right: %;
+    font-size:1.1em;
+}
+
+#bord15{
+     position: relative;
+   left: 21em;
+    padding: 2em;
+}
+
+
+#bord17 {
+     border-style: solid;
+    border-radius:35px;
+    border-color:orangered;
+    width: 2px;
+     padding:10px;
+    position: relative;
+    left: 21em;
+    font-size:1.1em;
+        
+    
+}
+
+
+.desc {
+    font-family: monospace;
+    margin: 20px 40px 80px 5px; 
+    text-indent: 20px;
+    text-align:justify
+}
+
+
+#bradley {
+    font-family: monospace;
+    padding: 30px;
+    text-decoration-color: red;
+    text-align:justify;
+    
+}
+
+
+.foto1 {
+    border-radius: 15px;
+}
+
+#denver {
+    position: relative;
+   text-align:justify;
+    font-family: monospace;
+}
+
+#boy {
+     position: relative;
+    text-align:justify;
+   font-family: monospace;
+}
+
+#jordan {
+   text-align:justify;
+    font-family: monospace;
+}
+
+#tracy {
+     position: relative;
+    text-align:justify;
+    font-family: monospace;}
+
+#chanel {
+     position: relative;
+   text-align:justify;
+   font-family: monospace;
+    
+}
+
+#maylon { 
+    position: relative;
+   text-align:justify;
+   font-family: monospace;
+}
+
+#lilica {
+     position: relative;
+    text-align:justify;
+    font-family: monospace;
+    
+}
+
+#aisha {
+     position: relative;
+  text-align:justify;
+    font-family: monospace;
+    
+}
+
+#p1 {
+    position:relative;
+    
+    left:35%;
+    width:35%;
+    bottom:15em;
+    
+   }
+
+#p2 {
+    position:relative;
+    left:35%;
+    width:40%;
+    bottom:12em;
+    
+}
+.nenhum{
+    border: double 0.5em  ;
+    border-color:orange;
+    border-width:thick;
+    border-radius:60px;
+    
+     border-left-color: orange;
+    border-left:double;
+    border-left-width: thick
+}
+
+}
+.p3 {
+    
+    
+    position:relative;
+    left:30%;
+    width:10%;
+    bottom:10em;
+    
+}
+
+#p4 {
+    position:relative;
+    left:35%;
+    width:30%;
+    bottom:15em;
+    
+}
+
+#p5 {
+    position:relative;
+    left:35%;
+    width:35%;
+    bottom:10em;
+    
+}
+
+#p6 {
+    position:relative;
+    left:35%;
+    width:40%;
+    bottom:15em;
+    
+}
+
+#p7 {
+    position:relative;
+    left:35%;
+    width:40%;
+    bottom:12em;
+    
+}
+
+#p8 {
+    position:relative;
+    left:35%;
+    width:40%;
+    bottom:13em;
+}
+
+#p9 {
+    position:relative;
+    left:35%;
+    width:40%;
+    bottom:10em;
+}
+
+.tamanho{
+    width: 50%;
+    border-radius: 10%
+    
+}
+
+.tamanho2 {
+     width: 60%;
+    border-radius: 10%
+    
+}
+
+

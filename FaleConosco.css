@@ -1,0 +1,22 @@
+.linha1{border: solid 4px;
+      border-color:orangered;
+       }
+
+.linha2{border: solid 4px;
+      border-color:black;
+       }
+
+section{margin-left: 30%;
+        margin-right: 30%;
+        border-style: solid;
+        border-radius:35px;
+        border-color:orangered;
+        padding: 2%}
+
+.titulo{font-family: lucida console;
+    font-size:2em;
+        text-align: center;
+        font-weight: bold}
+
+.texto{font-family: monospace;
+  font-size: 1.2em} 

@@ -1,0 +1,178 @@
+.title1 {
+    text-align: center;
+    font-style:normal;
+    font-size: 2em;
+     font-family: monospace;
+    font-weight: bold;
+    
+}
+
+.title2 {
+     font-family:"Lucida Sans Unicode", "Lucida Grande", sans-serif;
+     font-size: 15px;
+    
+    
+}
+
+.tab{
+    position: relative;
+    
+    
+}
+
+
+#par1 {
+      font-family: monospace;
+    margin: 20px 40px 80px 5px; 
+    text-indent: 20px;
+    text-align:justify;
+    border-style:dotted;
+    border-color: orangered;
+    padding: 0.em;
+    width:88;
+    position: relative;
+    left:1%;
+     font-size: 1.4em
+}
+
+#ass1{
+      
+      font-family: monospace;
+      position: relative;
+      height: ;
+      top:1.2em;
+      font-weight: bold;
+      width:50%; color:orangered;
+     font-size: 1em;
+    
+    
+      
+    
+    
+}
+
+#dep1{
+     font-family: monospace;
+    position: relative;
+    left:6em;
+    top:1.2em;
+    font-weight: bold;
+    width:50%;
+     font-size: 1.4em
+}
+
+#ali1{
+  font-family: monospace;
+      position: relative;
+    left:4em;
+    top:1.2em;
+    font-weight: bold;
+    width:50%;
+     font-size: 1.5em;
+}
+
+#limp1{
+   font-family: monospace;
+      position: relative;
+    left:4em;
+    top:1.2em;
+    font-weight: bold;
+    width:50%;
+     font-size: 1.3em
+}
+
+#out1{
+     font-family: monospace;
+      position: relative;
+    left:6em;
+    top:1.2em;
+    font-weight: bold;
+    width:50%;
+    font-size: 1.5em
+    
+}
+
+#pag2{
+    border-radius: 100%;
+    width: 70%;
+        
+}
+
+
+#pag1{ font-family: monospace;
+    position:relative;
+    top:
+  position: relative;
+    font-weight: bold;
+    left:4em;
+    top:1.005em;
+    width:50%;
+     font-size: 1.5em
+    
+}
+#tabela{
+    position: relative;
+    top:5em;
+    left:1%;
+    text-align: center;
+}
+#ass1{
+     position: relative;
+    left:80px;
+    font-size: 1.28em;
+}
+
+#ass2 {
+     border-radius: 900%;
+    width: 80%;
+}
+
+#dep2 {
+    border-radius: 900%;
+    width: 50%;
+}
+
+#limp2{
+     border-radius: 100%;
+    width: 80%;
+}
+
+#ali2{
+    border-radius: 900%;
+    width: 70%;
+}
+
+#out2 {
+    border-radius: 900%;
+    width: 50%;
+}
+
+.body{
+    position:relative;
+    top:10em
+}
+
+#titulo2{
+    text-align: center;
+    font-size: 2.5em;
+     font-family: monospace;
+}
+
+.linha{
+    border: solid 0.3em;
+    border-color: orangered;
+    position: relative;
+    top:4em
+}
+
+.linha2{
+    position:relative;
+    bottom:45em;
+    border: solid 0.3em;
+    border-color: orangered;
+}
+
+#footer{
+    position: relative;
+    top:12em;
+}
